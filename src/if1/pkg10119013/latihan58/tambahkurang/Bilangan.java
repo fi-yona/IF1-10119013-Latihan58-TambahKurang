@@ -16,7 +16,7 @@ package if1.pkg10119013.latihan58.tambahkurang;
 
 public class Bilangan {
    
-    final int x;
+    private final int x;
     private final int y;
     
     public Bilangan(){
